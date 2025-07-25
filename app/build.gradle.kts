@@ -60,5 +60,5 @@ dependencies {
     debugImplementation(libs.androidx.ui.tooling)
     debugImplementation(libs.androidx.ui.test.manifest)
 
-    implementation(project(":KList")) // Make sure ":klistlibrary" matches your library's module name
+    implementation(project(":KList"))
 }
