@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Assignment</string>
+
+    <!-- Screen titles -->
+    <string name="coin_list_title">Cryptocurrency List</string>
+    <string name="klist_demo_title">KList Demo</string>
+
+    <!-- Section headers -->
+    <string name="top_gainers">Top Gainers</string>
+    <string name="top_losers">Top Losers</string>
+    <string name="watchlist">Watchlist</string>
+    <string name="sample_coins">Sample Coins</string>
+
+    <!-- Demo sections -->
+    <string name="basic_demo_title">Basic KList Example</string>
+    <string name="advanced_demo_title">Advanced KList with Multiple Sections</string>
+
+    <!-- Actions -->
+    <string name="retry">Retry</string>
+    <string name="refresh">Refresh</string>
+
+    <!-- Messages -->
+    <string name="no_data_available">No data available</string>
+    <string name="loading">Loading...</string>
+
+</resources>
