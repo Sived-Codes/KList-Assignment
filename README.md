@@ -66,7 +66,7 @@ KList
 
 ## 🖼️ Preview
 
-<img src="https://github.com/Sived-Codes/KList-Assignment/blob/main/drawables/img.png" width="250" />
+<img src="https://raw.githubusercontent.com/Sived-Codes/KList-Assignment/refs/heads/master/app/src/main/res/drawable/img.png" width="250" />
 
 > _Add screenshots or screen recordings here to show how it looks in the app._
 
