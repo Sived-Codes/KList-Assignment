@@ -82,8 +82,10 @@ https://jitpack.io/#Sived-Codes/KList-Assignment
 
 ## 👨‍💻 Author
 
-**Sived Deshmukh**  
+**Prashant Deshmukh**  
 GitHub: [@Sived-Codes](https://github.com/Sived-Codes)
+Web: [@Prashant Web](https://prashant-deshmukh.web.app/)
+
 
 ---
 
